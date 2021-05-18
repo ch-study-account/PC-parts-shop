@@ -3,5 +3,5 @@
    <body>
      <h1>Success!!</h1>
      <?php phpinfo(); ?>
-    <body>
+    </body>
  </html>
