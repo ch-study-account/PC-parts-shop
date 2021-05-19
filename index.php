@@ -61,13 +61,13 @@
 
   
   <!-- start #nav-L -->
-  <?php require 'nav-L.php' ?>
+ 
   
   <!-- start #nav-L -->
 
   
   <!-- start #main-site -->
-  <?php require 'main.php'; ?>
+ 
  
   <!-- start #main-site -->
 
