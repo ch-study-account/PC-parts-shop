@@ -1,11 +1,11 @@
 <?php
   // データベースユーザ
-  $user = 'root';
-  $password = '';
+  $user = 'admin';
+  $password = 'adminpass';
   // 利用するデータベース
   $dbName = 'shop';
   // MySQLサーバ
-  $host = 'localhost';
+  $host = 'db-mysql.cy9noxjypbbx.us-east-1.rds.amazonaws.com';
   // MySQLのDSN文字列
   $dsn = "mysql:host={$host};dbname={$dbName};charset=utf8";
   //MySQLデータベースに接続する
